@@ -13,15 +13,14 @@ function Choose() {
        
 
             <Image
-                        src="/Price List.png"
-                        alt="Price list"
-                        className="w-full object-cover"
-                        layout="responsive" 
-                        width={1920} 
-                        height={1080} 
-                        priority 
- >
-    </Image>
+  src="/price-list.png"
+  alt="Price list"
+  className="w-full object-cover"
+  layout="responsive"
+  width={1920}
+  height={1080}
+  priority
+/>
 
 
     </div >        

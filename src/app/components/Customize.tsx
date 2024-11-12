@@ -8,13 +8,13 @@ function Customize() {
       <div className='flex sm:flex-row sm:items-center sm:justify-center sm:mt-10 mt-10 flex-col-reverse'>
 <div className='sm:flex-1 '>
     <div className='relative flex items-center sm:justify-start justify-center sm:mt-0 mt-20 sm:pl-4 '  >
- <Image src="/meer.jfif"
- alt="te"
- width={400}
- height={400}
- >
+    <Image
+  src="/meer.jfif"
+  alt="Description"
+  width={400}
+  height={400}
+/>
 
- </Image>
     </div>
     </div>
 
