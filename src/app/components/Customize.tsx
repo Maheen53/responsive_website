@@ -9,7 +9,7 @@ function Customize() {
 <div className='sm:flex-1 '>
     <div className='relative flex items-center sm:justify-start justify-center sm:mt-0 mt-20 sm:pl-4 '  >
     <Image
-  src="/meer.jfif"
+  src="/custom.avif"
   alt="Description"
   width={400}
   height={400}

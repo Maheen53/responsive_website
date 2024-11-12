@@ -13,7 +13,7 @@ function Choose() {
        
 
             <Image
-  src="/price-list.png"
+  src="/Price list.png"
   alt="Price list"
   className="w-full object-cover"
   layout="responsive"
